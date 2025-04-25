@@ -2,7 +2,7 @@ jsonpointer==3.0.0
 frozenlist==1.4.1
 cloudpickle==2.2.1
 tqdm==4.66.4
-h11==0.14.0
+h11==0.16.0
 MarkupSafe==2.1.5
 fixedint==0.1.6
 backports.weakref==1.0.post1
